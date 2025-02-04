@@ -1,0 +1,7 @@
+alejandro@MacBook-Air-de-Alejandro ~ % pylint /Users/alejandro/Desktop/statsFour/convert_numbers.py
+************* Module convert_numbers
+Desktop/statsFour/convert_numbers.py:30:0: R0914: Too many local variables (18/15) (too-many-locals)
+Desktop/statsFour/convert_numbers.py:77:11: W0718: Catching too general exception Exception (broad-exception-caught)
+
+------------------------------------------------------------------
+Your code has been rated at 9.62/10 (previous run: 9.45/10, +0.17)
