@@ -1,0 +1,7 @@
+alejandro@MacBook-Air-de-Alejandro ~ % pylint /Users/alejandro/Desktop/statsFour/word_count.py
+************* Module word_count
+Desktop/statsFour/word_count.py:10:0: R0914: Too many local variables (16/15) (too-many-locals)
+Desktop/statsFour/word_count.py:60:11: W0705: Catching previously caught exception type FileNotFoundError (duplicate-except)
+
+------------------------------------------------------------------
+Your code has been rated at 9.55/10 (previous run: 9.32/10, +0.23)
