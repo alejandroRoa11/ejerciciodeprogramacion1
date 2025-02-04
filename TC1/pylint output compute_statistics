@@ -1,0 +1,8 @@
+alejandro@MacBook-Air-de-Alejandro ~ % pylint /Users/alejandro/Desktop/statsFour/compute_statistics.py
+************* Module compute_statistics
+Desktop/statsFour/compute_statistics.py:20:0: R0914: Too many local variables (17/15) (too-many-locals)
+
+------------------------------------------------------------------
+Your code has been rated at 9.80/10 (previous run: 9.80/10, +0.00)
+
+alejandro@MacBook-Air-de-Alejandro ~ % 

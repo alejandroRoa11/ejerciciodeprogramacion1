@@ -1,0 +1,4 @@
+Mean is: 149.00267347908746
+Standard deviation is: 130.41441961308902
+Mode(s) is/are: {123.75}
+tomó 2.4323480129241943 segundos
